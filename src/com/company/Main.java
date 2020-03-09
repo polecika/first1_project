@@ -20,6 +20,20 @@ public class Main {
         else if (typeOfRest == 3) {
             System.out.println("Предлагаем тур в Турцию для замечательного пляжного отдыха!");
         }
+        int sumOfPay;
+        System.out.println("Введите планируемую сумму и мы расчитаем вам скидку:");
+        sumOfPay = in.nextInt();
+        if(sumOfPay > 500) {
+            if (sumOfPay > 1000) {
+                System.out.println("Ваша скидка: 5%");
+            }
+            else {
+                System.out.println("Ваша скидка: 3%");
+            }
+        }
+        else {
+            System.out.println("К сожалению, у вас не будет скидки :(");
+        }
 
     }
 }

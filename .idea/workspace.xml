@@ -66,10 +66,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="22" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1583764383362" />
-    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1583764736749">
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1583765379850">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583764736749" />
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1583765379850" />
     <state x="505" y="263" key="Github.CreateGistDialog" timestamp="1583763219790">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -78,26 +78,30 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="553" y="257" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1583762906184" />
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom" timestamp="1583763444673">
+    <state width="643" height="66" key="GridCell.Tab.0.bottom" timestamp="1583768937571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583763444673" />
-    <state width="1286" height="163" key="GridCell.Tab.0.center" timestamp="1583763444673">
+    <state width="643" height="66" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583768937571" />
+    <state width="643" height="66" key="GridCell.Tab.0.center" timestamp="1583768937571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583763444673" />
-    <state width="1286" height="163" key="GridCell.Tab.0.left" timestamp="1583763444673">
+    <state width="643" height="66" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583768937571" />
+    <state width="643" height="66" key="GridCell.Tab.0.left" timestamp="1583768937569">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583763444672" />
-    <state width="1286" height="163" key="GridCell.Tab.0.right" timestamp="1583763444673">
+    <state width="643" height="66" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583768937569" />
+    <state width="643" height="66" key="GridCell.Tab.0.right" timestamp="1583768937571">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1286" height="163" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583763444673" />
-    <state x="184" y="7" key="SettingsEditor" timestamp="1583764647854">
+    <state width="643" height="66" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583768937571" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard" timestamp="1583765217603">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583764647854" />
+    <state x="348" y="63" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1583765217603" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1583765513363">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1583765513363" />
     <state x="379" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1583763606995">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -106,17 +110,17 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583763629874" />
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583763646490">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1583765487326">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583763646490" />
-    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1583764753824">
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1583765487326" />
+    <state x="513" y="155" key="svn.repositoryBrowser" timestamp="1583765385006">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1583764753824" />
-    <state x="488" y="139" key="svn4idea.import.options" timestamp="1583764738477">
+    <state x="513" y="155" key="svn.repositoryBrowser/0.0.1366.728@0.0.1366.728" timestamp="1583765385006" />
+    <state x="488" y="139" key="svn4idea.import.options" timestamp="1583765382128">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="139" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1583764738477" />
+    <state x="488" y="139" key="svn4idea.import.options/0.0.1366.728@0.0.1366.728" timestamp="1583765382128" />
   </component>
 </project>
