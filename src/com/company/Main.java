@@ -34,6 +34,19 @@ public class Main {
         else {
             System.out.println("К сожалению, у вас не будет скидки :(");
         }
+        //вызовем метод main1()
+        main1();
 
+    }
+    public static void main1() {
+        System.out.println("Вывод нечетные числа от 1 до 99");
+        int i;
+        for (i = 1; i < 99; i+=2) {
+            System.out.println(i);
+        }
+        System.out.println("Вывод степеней двойки до 1000");
+        for (i = 1; i < 1000; i*=2) {
+            System.out.println(i);
+        }
     }
 }
